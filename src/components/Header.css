@@ -1,0 +1,25 @@
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  font-weight: 400;
+  padding: 20px 0px 40px 0px;
+}
+
+.header-left-content a {
+  color: #0b7af3;
+  padding-right: 90px;
+}
+
+.header-right-content a {
+  color: black;
+}

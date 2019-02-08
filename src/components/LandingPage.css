@@ -1,0 +1,13 @@
+.landing-content-wrapper {
+  font-family: 'Circular Black', sans-serif;
+  font-size: 20px;
+}
+
+.landing-title {
+  color: dimgrey;
+  line-height: 5px;
+}
+
+.landing-content {
+  color: rgb(203, 242, 1);
+}

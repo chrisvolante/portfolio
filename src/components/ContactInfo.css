@@ -1,0 +1,15 @@
+.contact-wrapper {
+  color: rgb(183, 42, 135);
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.contact-title {
+  font-size: 33px;
+  line-height: 5px;
+}
+
+.contact-content {
+  line-height: 4px;
+  font-size: 16px;
+}
