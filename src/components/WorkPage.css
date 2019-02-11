@@ -71,8 +71,8 @@ section {
 	position: relative;
 	display: block;
 	min-height: 100%;
-	max-width: 100%;
-	opacity: 0.8;
+  max-width: 100%;
+  opacity: 1;
 }
 
 .grid figure figcaption {
@@ -151,7 +151,8 @@ figure.effect-zoe h2 {
 figure.effect-zoe p.icon-links a {
 	float: right;
 	color: #3c4a50;
-	font-size: 1.4em;
+  font-size: 1.4em;
+  padding: 10px 0px 0px 10px;
 }
 
 figure.effect-zoe:hover p.icon-links a:hover,
@@ -161,11 +162,11 @@ figure.effect-zoe:hover p.icon-links a:focus {
 
 figure.effect-zoe p.description {
 	position: absolute;
-	bottom: 8em;
+	bottom: 3em;
   padding: 2em;
-	color: white;
+  color: pink;
 	text-transform: none;
-	font-size: 90%;
+	font-size: 150%;
 	opacity: 0;
 	-webkit-transition: opacity 0.35s;
 	transition: opacity 0.35s;
@@ -195,21 +196,22 @@ figure.effect-zoe p.icon-links a span::before {
 	content: '\e001';
 }
 
-/* .icon-heart::before {
+.icon-heart::before {
 	content: '\e024';
-} */
+}
 
 figure.effect-zoe h2 {
 	display: inline-block;
 }
 
 figure.effect-zoe:hover p.description {
-	opacity: 1;
+  opacity: 1;
 }
 
 figure.effect-zoe:hover figcaption,
 figure.effect-zoe:hover h2,
 figure.effect-zoe:hover p.icon-links a {
+  
 	-webkit-transform: translate3d(0,0,0);
   transform: translate3d(0,0,0);
 }

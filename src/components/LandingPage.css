@@ -8,6 +8,10 @@
   line-height: 5px;
 }
 
-.landing-content {
+.landing-content p {
   color: rgb(203, 242, 1);
+}
+
+.tech-icons span {
+  padding-right: 10px;
 }

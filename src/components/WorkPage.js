@@ -12,7 +12,7 @@ const WorkPage = () => {
     <div className="content">
       <div className="grid">
         <figure className="effect-zoe">
-          <img src={addressbookImage} alt="address-book-image" />
+          <img className="image" src={addressbookImage} alt="address-book-image" />
           <figcaption>
             <h2>Address <span>Book</span></h2>
             <p className="icon-links">
@@ -23,7 +23,7 @@ const WorkPage = () => {
           </figcaption>
         </figure>
         <figure className="effect-zoe">
-          <img src={budgetImage} alt="budget-image" />
+          <img className="image" src={budgetImage} alt="budget-image" />
           <figcaption>
             <h2>Budget <span>App</span></h2>
             <p className="icon-links">
@@ -34,7 +34,7 @@ const WorkPage = () => {
           </figcaption>
         </figure>
         <figure className="effect-zoe">
-          <img src={novacationImage} alt="novacation-image" />
+          <img className="image" src={novacationImage} alt="novacation-image" />
           <figcaption>
             <h2>No <span>Vacation</span></h2>
             <p className="icon-links">
@@ -45,7 +45,7 @@ const WorkPage = () => {
           </figcaption>
         </figure>
         <figure className="effect-zoe">
-          <img src={quizImage} alt="quiz-image" />
+          <img className="image" src={quizImage} alt="quiz-image" />
           <figcaption>
             <h2>Quiz <span>App</span></h2>
             <p className="icon-links">
