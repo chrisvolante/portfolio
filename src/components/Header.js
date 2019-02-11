@@ -14,7 +14,7 @@ const Header = () => {
         </li>
         <li className="header-right-content">
           <Link to="/work">
-            Work
+            Projects
           </Link>
         </li>
       </ul>
