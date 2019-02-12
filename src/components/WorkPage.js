@@ -12,45 +12,45 @@ const WorkPage = () => {
     <div className="content">
       <div className="grid">
         <figure className="effect-zoe">
-          <img className="image" src={addressbookImage} alt="address-book-image" />
+          <img className="image" src={addressbookImage} alt="address-book" />
           <figcaption>
             <h2>Address <span>Book</span></h2>
             <p className="icon-links">
-              <a href="https://github.com/chrisvolante/addressbook-client" target="_blank"><span><FaGithub />Repo</span></a>
-              <a href="https://cryptic-fortress-69642.herokuapp.com/" target="_blank"><span><FaArrowAltCircleUp />Live</span></a>
+              <a href="https://github.com/chrisvolante/addressbook-client" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
+              <a href="https://cryptic-fortress-69642.herokuapp.com/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live</span></a>
             </p>
             <p className="description">Keep all your contacts in one place and accessible on any device.</p>
           </figcaption>
         </figure>
         <figure className="effect-zoe">
-          <img className="image" src={budgetImage} alt="budget-image" />
+          <img className="image" src={budgetImage} alt="budget" />
           <figcaption>
             <h2>Budget <span>App</span></h2>
             <p className="icon-links">
-              <a href="https://github.com/chrisvolante/budget-app" target="_blank"><span><FaGithub />Repo</span></a>
-              <a href="https://afternoon-anchorage-88698.herokuapp.com/" target="_blank"><span><FaArrowAltCircleUp />Live </span></a>
+              <a href="https://github.com/chrisvolante/budget-app" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
+              <a href="https://afternoon-anchorage-88698.herokuapp.com/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live </span></a>
             </p>
             <p className="description">Budget App lets you keep track of daily spending!</p>
           </figcaption>
         </figure>
         <figure className="effect-zoe">
-          <img className="image" src={novacationImage} alt="novacation-image" />
+          <img className="image" src={novacationImage} alt="novacation" />
           <figcaption>
             <h2>No <span>Vacation</span></h2>
             <p className="icon-links">
-              <a href="https://github.com/chrisvolante/no-vacation-app" target="_blank"><span><FaGithub />Repo</span></a>
-              <a href="https://chrisvolante.github.io/no-vacation-app/" target="_blank"><span><FaArrowAltCircleUp />Live</span></a>
+              <a href="https://github.com/chrisvolante/no-vacation-app" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
+              <a href="https://chrisvolante.github.io/no-vacation-app/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live</span></a>
             </p>
             <p className="description">No Vacation takes your mind elsewhere when your body is stuck at work..</p>
           </figcaption>
         </figure>
         <figure className="effect-zoe">
-          <img className="image" src={quizImage} alt="quiz-image" />
+          <img className="image" src={quizImage} alt="quiz" />
           <figcaption>
             <h2>Quiz <span>App</span></h2>
             <p className="icon-links">
-              <a href="https://github.com/chrisvolante/budget-app" target="_blank"><span><FaGithub />Repo</span></a>
-              <a href="https://chrisvolante.github.io/quiz-app/" target="_blank"><span><FaArrowAltCircleUp />Live</span></a>
+              <a href="https://github.com/chrisvolante/budget-app" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
+              <a href="https://chrisvolante.github.io/quiz-app/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live</span></a>
             </p>
             <p className="description">Test your musical knowledge on some of the Hits from 2018!</p>
           </figcaption>
