@@ -13,3 +13,9 @@
   line-height: 4px;
   font-size: 16px;
 }
+
+.contact-icons a {
+  font-size: 20px;
+  color: white;
+  padding-right: 10px;
+}
