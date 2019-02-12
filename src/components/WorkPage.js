@@ -19,7 +19,6 @@ const WorkPage = () => {
               <a href="https://github.com/chrisvolante/addressbook-client" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
               <a href="https://cryptic-fortress-69642.herokuapp.com/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live</span></a>
             </p>
-            <p className="description">Keep all your contacts in one place and accessible on any device.</p>
           </figcaption>
         </figure>
         <figure className="effect-zoe">
@@ -30,7 +29,6 @@ const WorkPage = () => {
               <a href="https://github.com/chrisvolante/budget-app" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
               <a href="https://afternoon-anchorage-88698.herokuapp.com/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live </span></a>
             </p>
-            <p className="description">Budget App lets you keep track of daily spending!</p>
           </figcaption>
         </figure>
         <figure className="effect-zoe">
@@ -41,7 +39,6 @@ const WorkPage = () => {
               <a href="https://github.com/chrisvolante/no-vacation-app" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
               <a href="https://chrisvolante.github.io/no-vacation-app/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live</span></a>
             </p>
-            <p className="description">No Vacation takes your mind elsewhere when your body is stuck at work..</p>
           </figcaption>
         </figure>
         <figure className="effect-zoe">
@@ -52,7 +49,6 @@ const WorkPage = () => {
               <a href="https://github.com/chrisvolante/budget-app" target="_blank" rel="noopener noreferrer"><span><FaGithub />Repo</span></a>
               <a href="https://chrisvolante.github.io/quiz-app/" target="_blank" rel="noopener noreferrer"><span><FaArrowAltCircleUp />Live</span></a>
             </p>
-            <p className="description">Test your musical knowledge on some of the Hits from 2018!</p>
           </figcaption>
         </figure>
       </div>
