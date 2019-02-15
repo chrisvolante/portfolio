@@ -10,11 +10,10 @@ const ContactInfo = () => {
         <p>Say Hello!</p>
         <p>chrisvolante@pm.me</p>
         <p className="contact-icons">
-          <a href="https://github.com/chrisvolante" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/chrisvolante" target="_blank" rel="noopener noreferrer">
             <span><FaGithub />GitHub</span>
           </a>
-          <a href="https://www.linkedin.com/in/christophervolante
-          ">
+          <a href="https://www.linkedin.com/in/christophervolante" target="_blank" rel="noopener noreferrer">
             <span><FaLinkedinIn />LinkedIn</span>
           </a>
         </p>

@@ -13,6 +13,8 @@ a {
   align-items: baseline;
   font-weight: 400;
   padding: 20px 0px 40px 0px;
+  max-width: 720px;
+  margin: 0 auto;
 }
 
 .header-left-content a {
@@ -22,4 +24,10 @@ a {
 
 .header-right-content a {
   color: black;
+}
+
+@media screen and (max-width: 420px) {
+  .header-left-content a {
+    padding-right: 52px;
+  }
 }
